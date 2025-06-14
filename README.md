@@ -1,5 +1,8 @@
 # 📄 Chat with Your Notes (HuggingFace + Streamlit)
 
+![App Screenshot](image.png)
+
+
 An LLM-powered chatbot that allows users to upload academic PDF notes and ask questions based on the content. The bot uses HuggingFace's free FLAN-T5 model and LangChain for document retrieval and response generation.
 
 ## 🚀 Features
@@ -33,4 +36,3 @@ streamlit run app.py
 Then open: http://localhost:8501
 
 
-![alt text](image.png)
