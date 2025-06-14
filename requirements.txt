@@ -1,0 +1,9 @@
+streamlit
+transformers
+sentence-transformers
+accelerate
+langchain
+langchain-community
+faiss-cpu
+PyPDF2
+ 
